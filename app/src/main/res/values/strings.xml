@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Motto</string>
+
+    <string name="action_edit">Edit</string>
+    <string name="action_remove">Remove</string>
+
+    <string name="hint_motto">Your motto here...</string>
+
+    <string name="dialog.remove_motto.title">Remove motto</string>
+    <string name="dialog.remove_motto.message">Are you sure?</string>
+
+    <string name="activity.edit_motto.title">Editing...</string>
+    <string name="activity.edit_motto.action.save">Save</string>
 </resources>
